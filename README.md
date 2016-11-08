@@ -1,5 +1,5 @@
 # ldap-tree
-shows ldap tree in cli
+shows ldap ascii tree
 
 # dependencies
 - python2-asciitree
